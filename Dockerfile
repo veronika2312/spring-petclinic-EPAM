@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:19
 
 # Exposing TCP Protocol 
 EXPOSE 3000
